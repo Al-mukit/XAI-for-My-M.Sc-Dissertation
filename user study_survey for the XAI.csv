@@ -1,0 +1,71 @@
+Timestamp,Username,"University name/Job Role (Example: M.Sc. in Cybersecurity at Staffordshire University, UK/L2 SOC Analyst)",Years of experience in cybersecurity / SOC operations:,"Trust in the explanation
+Seeing the SHAP/LIME explanation increased my trust in the model's prediction for the alert.
+
+1 Strongly Disagree
+
+2 Disagree
+
+3 Neutral
+
+4 Agree
+
+5 Strongly Agree","Clarity of the explanation
+The explanation (feature contributions shown by SHAP/LIME) was clear and easy to understand.
+1 Strongly Disagree
+
+2 Disagree
+
+3 Neutral
+
+4 Agree
+
+5 Strongly Agree","Confidence in triage decisions
+The explanation made me more confident in deciding whether an alert was a true positive, false positive, or needed escalation.
+1 Strongly Disagree
+
+2 Disagree
+
+3 Neutral
+
+4 Agree
+
+5 Strongly Agree","Speed and practicality under time pressure
+Given a realistic Tier-1 workload (roughly 60–90 seconds per alert), the dashboard and its explanations were fast enough to be practical.
+1 Strongly Disagree
+
+2 Disagree
+
+3 Neutral
+
+4 Agree
+
+5 Strongly Agree","Q5. Preferred explanation method
+Which explanation did you find more useful overall, and why? (Please comment briefly.)","Q6. Suggestions for improvement
+What would make this tool more effective, trustworthy, or usable in a real-world SOC setting?",
+2026/08/31 4:01:53 PM GMT+1,,MSc in Engineering Management at BPP University ,1,5,5,5,5,Shap,No improvement ,5
+2026/09/01 8:01:47 PM GMT+1,,CSE in AUST,2,4,4,4,4,Lime,,4
+2026/09/02 8:21:23 AM GMT+1,,"Neoscoder, Backend Engineer",1.6+,3,3,3,2,Lime,,3
+2026/09/02 9:24:23 AM GMT+1,,Data Analyst at Shadhin Lab LLC,0,3,3,3,3,Lime,,3
+2026/09/02 9:30:40 AM GMT+1,,Aust,2,3,3,3,3,Shap,,3
+2026/09/02 10:11:55 AM GMT+1,,B.Sc. in Computer Science and Engineering at Ahsanullah University of Science and Technology ,0,4,4,4,4,Shap,"The tool could be improved by providing a short summary of the most important contributing features in simpler SOC-oriented language. Adding confidence scores, recommended triage actions, and clearer visualization of SHAP/LIME results would also make the dashboard more useful for Tier-1 SOC analysts. Improving loading and prediction speed would further increase its practicality under time pressure.",4
+2026/09/02 11:00:58 AM GMT+1,,M.Sc. in Information Technology(CyberSecurity and Networking) at Murdoch University ,2026,4,5,4,4,Lime,"It would be more effective with clearer explanations, real-time data, and simple visualisations to help SOC analysts understand and trust the results.",3
+2026/09/02 11:20:22 AM GMT+1,,B.Sc. in CSE at Ahsanullah University of Science And Technology ,None,4,3,4,4,Shap,,4
+2026/09/02 11:22:36 AM GMT+1,,B.Sc in Ahsanullah University of Science and Technology ,<1 year,5,4,5,4,Shap,It's already very equipped than other tools I have used so far. Keeping this features will make it very effective in a real world SOC settings.,4
+2026/09/02 12:13:40 PM GMT+1,,"B.Sc. in Computer science and engineering at North South University, Software developer at Raptas.",yes,5,5,5,5,Shap,,5
+2026/09/02 2:22:48 PM GMT+1,,"M.Sc. in CSE at BRAC University, Lecturer at Ahsanullah University of Science and Technology",1,5,4,5,4,Shap,,4
+2026/09/02 4:14:56 PM GMT+1,foysalhossain722@gmail.com,BSc is CSE at AHSANULLAH UNIVERSITY OF SCIENCE AND TECHNOLOGY,1,4,5,5,5,Lime,"The tool would be more effective in a real-world environment with clearer visualizations of lime feature contributions, a confidence score for each prediction, and more detailed alert information. Adding filtering, alert prioritization, and export/reporting features would also make it easier to handle a large number of alerts under time pressure. Regular model updates and performance monitoring would further improve trustworthiness.",
+2026/09/02 4:35:20 PM GMT+1,tahsinturag10@gmail.com,Cybersecurity Student,Less than 1 year,4,5,4,5,Shap,Adding more real-world alert samples and making the explanation slightly more concise would also make it more practical for a Tier-1 SOC environment,
+2026/09/02 5:26:23 PM GMT+1,sanjiedahamed@gmail.com,"Bsc. in CSE at Ahsanullah University of Science and Technology,Bangladesh",1,4,3,4,4,Lime,,
+2026/09/02 6:02:34 PM GMT+1,abdsince1997@gmail.com,Masters in Ai and Data Science ,1,4,3,4,5,Shap,,
+2026/09/02 6:40:21 PM GMT+1,nujhatmaryamshara@gmail.com,Bachelor of Cyber Security at Swinburne University ,1,4,4,4,4,Shap,SHAP was easier to understand and clearly showed which features influenced the prediction.,
+2026/09/02 6:42:13 PM GMT+1,nayeebsalman@gmail.com,Nayeeb (M.Sc in CSE) Bangladesh,2,5,5,4,4,Shap,,
+2026/09/02 7:05:16 PM GMT+1,compon.rayhan@gmail.com,M.Sc in Computer Science at BRAC University,0,5,3,5,4,Shap,SOC analyst feedback can be captured to retrain and calibrate the underlying ML model over time,
+2026/09/02 7:07:20 PM GMT+1,crehan663@gmail.com,University of Staffordshire ,1,5,5,5,5,Shap,Implement with SIEM tools.,
+2026/09/02 7:07:26 PM GMT+1,mehrobzawad@gmail.com,"Master's in Cyber Security at Dhaka University, Bangladesh",1,5,3,5,4,Shap,"Adding prediction confidence scores, severity levels, and recommended analyst actions (Close, Monitor, Escalate) would improve usability. Brief textual explanations alongside SHAP/LIME results and faster dashboard performance would also make the tool more practical for real-world SOC operations.",
+2026/09/02 7:27:16 PM GMT+1,shujadar334@gmail.com,"M.Sc in AI & data science at Keel University,UK",1,5,5,5,5,Shap,Very effective for L1/L2 analyst,
+2026/09/02 7:45:51 PM GMT+1,aslam.rizwan2@gmail.com,Canterbury Christ church university ,1 year ,5,5,5,5,Shap,,
+2026/09/03 6:31:43 AM GMT+1,arpran2023@gmail.com,M.Sc in Cybersecurity at EWS,1,4,4,4,4,Shap,"Clearer, more concise explanations and confidence scores would make the tool more effective and trustworthy in a real-world SOC setting.",
+2026/09/03 9:35:40 AM GMT+1,isheekoumer@gmail.com,SOC Analyst L2,3,4,3,3,3,Shap,"I think the tool could be improved by showing a clear confidence or risk score and making the most important features easier to understand. It would also be helpful to have more alert context, such as the attack type, severity, and recommended next steps for investigation. Integration with SIEM or EDR tools would make it more useful in a real SOC, especially when analysts need to investigate alerts quickly.",
+2026/09/03 9:37:42 AM GMT+1,shaikomerahmed40@gmail.com,SOC Analyst L1,1,3,4,4,3,Shap,"The tool would be more effective in a real-world SOC environment if it provided a clear confidence score, prioritized the most important SHAP features, and included more context about why an alert was classified as malicious or benign. Integration with SIEM/EDR platforms, alert severity and risk scoring, historical alert context, and recommended Tier-1 investigation steps would also improve its usability. It would be useful to optimize the dashboard for faster response under time pressure and provide consistent explanations across different attack types.",
+2026/09/03 11:35:42 AM GMT+1,slyzombe@gmail.com,"Student, MSc. in Cybersecurity at Staffordshire University, UK",In progress,5,4,4,4,Shap,"In cybersecurity, SHAP is a method used to describe how security decisions are made using machine learning and artificial intelligence models. It breaks down a model's output to reveal precisely which input signals, like an IP address, login time, or file size caused the system to either allow access or indicate a threat.",
+2026/09/03 12:04:34 PM GMT+1,amnasajid452@gmail.com,Msc cyber security university of staffordshire,3,4,4,4,4,Shap,Overall performance was good but in future you can test more and make it better ,
